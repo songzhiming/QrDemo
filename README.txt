@@ -1,0 +1,1 @@
+扫描二维码功能用原生的AVfoundation
