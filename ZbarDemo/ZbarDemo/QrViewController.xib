@@ -117,11 +117,11 @@
                     <exclude reference="2KM-7Q-ThS"/>
                 </mask>
                 <mask key="constraints">
+                    <exclude reference="aJI-bQ-nvs"/>
+                    <exclude reference="hqn-Sq-PEv"/>
                     <exclude reference="0fa-Jx-K5l"/>
                     <exclude reference="QWl-kO-Yv3"/>
                     <exclude reference="fTm-uN-QSZ"/>
-                    <exclude reference="aJI-bQ-nvs"/>
-                    <exclude reference="hqn-Sq-PEv"/>
                 </mask>
             </variation>
             <variation key="heightClass=regular-widthClass=compact">
@@ -130,11 +130,11 @@
                     <include reference="2KM-7Q-ThS"/>
                 </mask>
                 <mask key="constraints">
+                    <include reference="aJI-bQ-nvs"/>
+                    <include reference="hqn-Sq-PEv"/>
                     <include reference="0fa-Jx-K5l"/>
                     <include reference="QWl-kO-Yv3"/>
                     <include reference="fTm-uN-QSZ"/>
-                    <include reference="aJI-bQ-nvs"/>
-                    <include reference="hqn-Sq-PEv"/>
                 </mask>
             </variation>
         </view>

@@ -6,24 +6,40 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>16624870-1367-4877-8C90-DBB146767A9A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZbarDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>2BDD0C760F7EACED41101E70AA13702919524E0D</key>
+		<string>github.com:songzhiming/QrDemo.git</string>
 		<key>DC90A656673B11D63D52767F9E8438BABC66BE30</key>
 		<string>github.com:bmorton/ZBarSDK.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZbarDemo/ZbarDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>2BDD0C760F7EACED41101E70AA13702919524E0D</key>
+		<string>../../..</string>
 		<key>DC90A656673B11D63D52767F9E8438BABC66BE30</key>
-		<string>ZBarSDK/</string>
+		<string>../../..ZbarDemo/ZbarDemo/ZBarSDK/</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:bmorton/ZBarSDK.git</string>
+	<string>github.com:songzhiming/QrDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DC90A656673B11D63D52767F9E8438BABC66BE30</string>
+	<string>2BDD0C760F7EACED41101E70AA13702919524E0D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BDD0C760F7EACED41101E70AA13702919524E0D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QrDemo</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
